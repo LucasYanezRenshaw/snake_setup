@@ -1,9 +1,4 @@
-pygame
 torch
-gym
-stable-baselines3
+pygame
 numpy
-matplotlib
-Pillow
-requests
-tqdm
+
