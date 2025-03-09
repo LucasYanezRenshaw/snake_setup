@@ -1,0 +1,9 @@
+pygame
+torch
+gym
+stable-baselines3
+numpy
+matplotlib
+Pillow
+requests
+tqdm
